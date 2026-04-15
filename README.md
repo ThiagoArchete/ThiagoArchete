@@ -1,38 +1,44 @@
-# Olá, eu sou o Thiago!👋
+# Hi there, I'm Thiago! 👋
 
-### Desenvolvedor em Formação
-Atualmente cursando **Desenvolvimento de Software Multiplataforma na FATEC Franca**. Minha trajetória é marcada pela transição de uma carreira sólida em gestão e auditoria de saúde pública para a tecnologia, onde utilizo minha experiência em sistemas complexos e liderança para construir soluções eficientes.
+**QA Analyst | Software Development Student**
 
----
+[cite_start]I am a senior Software Development student at FATEC Franca (Expected graduation: Dec 2026)[cite: 24, 26, 28]. [cite_start]My career transition from public health management and auditing to technology is driven by my passion for software quality and my experience with complex systems[cite: 4, 41].
 
-### 💼 Trajetória Profissional (W.A. Braga Assessoria e Consultoria | 3 anos)
-
-Minha evolução na última empresa reflete minha capacidade de aprendizado e adaptação:
-
-* **Coordenador do Setor Técnico:** Liderei a equipe técnica, gerenciando a distribuição de tarefas, treinamento de novos colaboradores e tomada de decisão em casos de alta complexidade.
-* **Faturamento SUS (Ambulatorial e Hospitalar):** Especialista em sistemas de faturamento, com foco em análise de dados e garantia de conformidade.
-* **Auditoria Técnica:** Realização de auditorias hospitalares e ambulatoriais, além de auditorias de CNES (Cadastro Nacional de Estabelecimentos de Saúde) para validação de capacidade instalada e profissionais.
-* **Suporte e Implantação de Sistemas:** Responsável pelo suporte técnico do sistema **e-SUS PEC** (prontuário eletrônico), ministrando palestras e reuniões de alinhamento para profissionais de saúde.
-* **Otimização de Processos:** Criação de POPs (Procedimentos Operacionais Padrão) e reestruturação de fluxos de trabalho para melhoria da produtividade do setor.
+I am currently focusing on deepening my expertise in Quality Assurance, leveraging JavaScript for automation, and exploring how Machine Learning can enhance testing processes.
 
 ---
 
-### 🎓 Formação Acadêmica
+### 💼 Professional Experience
 
-* **Tecnólogo em Desenvolvimento de Software Multiplataforma**
-    *FATEC Franca (2024 — 2027)*
-* **Técnico em Contabilidade**
-    *ETEC Dr. Júlio Cardoso (2020 — 2022)*
+**QA Intern | [cite_start]CodeBit Programando Soluções (Jan 2026 — Apr 2026)** [cite: 8, 16, 17]
+* Performed manual testing on web systems, validating business rules and user flows[cite: 18].
+* [cite_start]Validated APIs using **Swagger** and **Postman** to analyze requests, responses, and status codes[cite: 21].
+* [cite_start]Monitored, investigated, and documented technical errors using the **Sentry** platform[cite: 20].
+* Executed bug reporting and regression testing to ensure system stability before deployment[cite: 19, 22].
 
----
-
-### 🛠 Conhecimentos e Tecnologias em Desenvolvimento
-
-* **Linguagens e Web:** HTML5, CSS3, JavaScript.
-* **Lógica e Backend:** Estrutura de dados e lógica de programação (foco atual em projetos acadêmicos).
-* **Domínio de Negócio:** Auditoria de sistemas, gestão de processos, suporte técnico especializado e conformidade normativa.
+**Technical Coordinator | [cite_start]W.A. Braga Assessoria e Consultoria (Mar 2023 — Dec 2025)** [cite: 7, 10, 11]
+* Led the technical team, managing task distribution and training new employees[cite: 11].
+* [cite_start]Conducted high-complexity technical audits and data analysis focused on regulatory compliance[cite: 13].
+* [cite_start]Optimized internal processes by creating Standard Operating Procedures (SOPs) and restructuring workflows[cite: 15].
 
 ---
 
-### 🚀 Objetivo
-Busco minha primeira oportunidade de **estágio na área de desenvolvimento**. Acredito que minha experiência anterior com sistemas críticos do Ministério da Saúde e coordenação de equipes me confere uma visão diferenciada para entender requisitos de software e entregar soluções que realmente resolvam problemas de negócio.
+### 🛠 Skills & Technologies
+
+* **Quality Assurance:** Manual Testing, API Testing (Postman, Swagger), Error Analysis (Sentry), Bug Reporting, Business Rule Validation[cite: 35, 36].
+* [cite_start]**Languages & Web:** JavaScript, HTML5, CSS3[cite: 37].
+* [cite_start]**Tools & Frameworks:** Git/GitHub, Logic & Data Structures[cite: 38].
+* **Soft Skills:** Analytical thinking, quick learner, clear communication, and a strong focus on business problem-solving[cite: 42, 43, 44].
+
+---
+
+### 🚀 Goal
+
+Having completed my QA internship, I am now seeking a **Junior QA Analyst** position. I leverage my strong background in auditing and coordination to provide a critical view of software requirements, ensuring stable deliveries that meet both user expectations and business goals[cite: 4, 5, 45].
+
+---
+
+### 📫 Let's Connect!
+
+* [cite_start]**LinkedIn:** [linkedin.com/in/thiago-archete-2ab899266/](https://linkedin.com/in/thiago-archete-2ab899266/) [cite: 2]
+* **Email:** thiagocunha04@yahoo.com [cite: 2]
