@@ -41,4 +41,4 @@ Having completed my QA internship, I am now seeking a **Junior QA Analyst** posi
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/thiago-archete-2ab899266/](https://linkedin.com/in/thiago-archete-2ab899266/)
-* **Email:** thiagocunha04@yahoo.com
+* **Email:** thiagoarchete@gmail.com
