@@ -10,7 +10,7 @@
 
 I am a Software Engineering student currently in my 5th semester, based in Brazil. My professional journey includes experience in Healthcare Administration and Quality Assurance, but my true passion lies in building robust systems.
 
-- 🚀 Currently focusing on building scalable systems with **PHP** and **Laravel**.
+- 🚀 Currently focusing on improving my **Quality Assurance** skills with manual and automated tests.
 - 🏗️ Interested in **Software Architecture**, **Clean Code**, and **Database Optimization**.
 - 🛠️ I enjoy exploring how different technologies connect.
 - 🎮 Outside of coding, you'll probably find me exploring virtual worlds. I'm a huge fan of gaming and I believe that the logic behind games is what first sparked my interest in tech.
