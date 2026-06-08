@@ -8,7 +8,7 @@
 
 ### About Me 👨‍💻
 
-I am a Software Engineering student currently in my 5th semester, based in Brazil. My professional journey includes experience in Healthcare Administration and Quality Assurance, but my true passion lies in building robust systems.
+I am a Software Engineering student currently in my 5th semester, based in Brazil. My professional journey includes experience in Healthcare Administration and Quality Assurance, where I developed strong analytical, problem-solving, and testing skills.
 
 - 🚀 Currently focusing on improving my **Quality Assurance** skills with manual and automated tests.
 - 🏗️ Interested in **Software Architecture**, **Clean Code**, and **Database Optimization**.
