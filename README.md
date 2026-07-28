@@ -10,8 +10,8 @@
 
 I am a QA Engineer/Software Tester and currently studying Software Engineering in my 6th and last semester, based in Brazil. My professional journey includes experience in Healthcare Administration and Quality Assurance, where I developed strong analytical, problem-solving, and testing skills.
 
-- 🚀 Currently focusing on improving my **Quality Assurance** skills with manual and automated tests.
-- 🏗️ Interested in **Software Architecture**, **Clean Code**, and **Database Optimization**.
+- 🚀 Currently focusing on improving my **Quality Assurance** skills with manual, automated tests and documentation.
+- 🏗️ Interested in **Automated Testing**, **Testing Methodologies**, and **Test Documentation**.
 - 🛠️ I enjoy exploring how different technologies connect.
 - 🎮 Outside of coding, you'll probably find me exploring virtual worlds. I'm a huge fan of gaming and I believe that the logic behind games is what first sparked my interest in tech.
 
